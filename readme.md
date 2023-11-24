@@ -7,7 +7,6 @@
 ## Platform
 - Linux
 - Windows
-- Mac
 ---
 
 # How to download game
