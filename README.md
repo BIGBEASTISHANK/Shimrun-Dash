@@ -1,6 +1,9 @@
-# Shumrun Dash 2D
+# Shumrun Dash
 
 This is a speedrun game. In this, the ball will automatically go forward. You can only control its speed (slow or fast) and you can also jump and anti-jump.
+
+> [!Important]
+> This game is complete. No more updates will be released for this game.
 
 ---
 ## Platform
