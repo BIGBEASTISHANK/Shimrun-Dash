@@ -1,4 +1,4 @@
-# Shumrun Dash
+# Shimrun Dash
 
 This is a speedrun game. In this, the ball will automatically go forward. You can only control its speed (slow or fast) and you can also jump and anti-jump.
 
